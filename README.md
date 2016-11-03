@@ -2,7 +2,7 @@
 
 Technology consultant turned wannabe developer.
 
-For a very long time now, every time I have seen a beautiful web page, a really impressive gadget or someone pondering over some code in a hipster coffee shop, I think "That's awesome, I would love to be able to build that!".
+For a very long time now, every time I have seen a beautiful web page, a really impressive gadget or someone pondering over some code in a hipster coffee shop, I think "That's awesome, I would love to be able to do that!".
 
 While I've always worked in the realm of technology, I've never really felt like I've been a part of it. Fed up of looking from the outside in, I am making bold steps to get involved, get my hands dirty and create something beautiful. 
 
