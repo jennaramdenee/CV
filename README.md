@@ -50,22 +50,20 @@ Makers Academy is a highly competitive 16 week computer programming course, acce
 - Focus on software craftsmanship, adopting best practices such as TDD and agile methodologies
 - Technology agnostic, with the ability and confidence to pick up new languages as demonstrated in our final project 
 
-#### Previous Experience
-
-**Javelin Group** (December 2014 - November 2016)    
+#### Javelin Group (December 2014 - November 2016)    
 *Technology Consultant*  
 
 Javelin Group is a boutique consultancy specialising in retail and consumer strategy, now part of Accenture Strategy as part of a recent acquisition. Worked within the technology consulting team as a consultant on IT strategy, technology selection and technology due diligence projects.
 
-**Accenture** (September 2011 - December 2014)   
+#### Accenture (September 2011 - December 2014)   
 *Business & Systems Integration Analyst*  
 
 Accenture is a global, technology consultancy specialising in technology delivery. Worked across three high profile projects covering retail, utilities and telco industries. Gainied first hand experience in leading enterprise applications, such as Sterling Order Management, Message Broker MQ, WebSphere Commerce, Oracle MDM.
 
 #### University of Manchester (September 2008 - June 2011)
 
-- BSc. Mathematics and Management, First Class Honours
+BSc. Mathematics and Management, First Class Honours
 
 #### Woodford County High School (September 2001 - July 2008)
 
-- A Levels: Mathematics (A), Business Studies (A), French (B)
+A Levels: Mathematics (A), Business Studies (A), French (B)
