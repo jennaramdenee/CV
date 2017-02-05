@@ -38,6 +38,12 @@ Demonstration of communicating complex technical processes and concepts to a ran
 
 Below are some projects that I am really proud of.
 
+| Project        | Description                              | Technology Used             | Link     |
+| ---------------|:----------------------------------------:| ---------------------------:|:---------|
+| Just-Jam       | Web app that allows musicians to connect | JavaScript, Node, Express, Mongoose, MongoDB, Pug | https://github.com/Gweaton/just-jam |
+| Instagramdenee | Instagram clone that allows users to post and comment on photos | Ruby, Rails, PostgreSQL | http://instagramdenee.herokuapp.com/ |
+| News App       | Uses Guardian API to present the latest news | JavaScript | https://github.com/jennaramdenee/news-summary-app |
+
 ## Experience
 
 #### Makers Academy (November 2016 - February 2017)
