@@ -59,7 +59,7 @@ Makers Academy is a highly competitive 16 week computer programming course, acce
 #### Javelin Group (December 2014 - November 2016)    
 *Technology Consultant*  
 
-Javelin Group is a boutique consultancy specialising in retail and consumer strategy, now part of Accenture Strategy as part of a recent acquisition. Worked within the technology consulting team as a consultant on IT strategy, technology selection and technology due diligence projects.
+Javelin Group is a boutique consultancy specialising in retail and consumer strategy, now part of Accenture Strategy following a recent acquisition. Worked within the Technology Consulting team as a consultant on IT strategy, technology selection and technology due diligence projects.
 
 #### Accenture (September 2011 - December 2014)   
 *Business & Systems Integration Analyst*  
