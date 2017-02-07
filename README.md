@@ -1,8 +1,10 @@
 ## Jenna Ramdenee
 
-Full stack developer, interested in how technology constantly affects how the world operates.
+Full stack developer, interested in the application and influence of technology and how it constantly changes how the world operates.
 
-I've always worked with technology and my recent enrollment in Makers Academy has helped me dive even further into the intricacies behind creating beautiful things.
+I've always worked with technology and my recent enrollment in Makers Academy has helped me dive even further into the intricacies behind creating beautiful things. 
+
+It combines my nerdy maths love and craving for logic with helping people solve real world problems using technology.
 
 Looking for an opportunity that I can be passionate about, in a company with values I share, with a team that encourages and pushes me to constantly achieve more.
 
@@ -10,9 +12,7 @@ Looking for an opportunity that I can be passionate about, in a company with val
 
 #### Problem Solving
 
-I value my logical and analytical mind, coming from a maths degree and applying this throughout my career so far. 
-
-Consultancy has always been about solving one problem after another, whether it's understanding what someone needs and suggesting solutions or just figuring out how to make something work.
+Studying maths and woring in consultancy has always been about solving one problem after another, whether it's understanding what someone needs and suggesting solutions or just figuring out how to make a piece of code, process or ambition work.
 
 - **IT Strategy**: Worked with a number of retail clients to form long term technology recommendations through assessment of current systems against future strategic ambitions
 - **Functional Solution Designer**: Understood client needs in order to produce and deliver functional design documents across numerous supply chain systems
@@ -32,7 +32,7 @@ Years of experience working across discovery, requirements, design, build, test,
 Demonstration of communicating complex technical processes and concepts to a range of audiences, including C-suite and business focussed stakeholders through workshops and written/visual documentation.
 
 - Established self as key point of contact for a complex warehousing process, becoming a point of contact for the business, information systems, stakeholders and project team
-- Lead educational workshops to a client covering multiple knowledge areas, including ecommerce, CRM, order management
+- Lead and facilitated educational workshops to a client covering multiple knowledge areas, including ecommerce, CRM, order management
 
 ## Favourite Projects
 
@@ -50,11 +50,11 @@ Below are some projects that I am really proud of.
 
 Makers Academy is a highly competitive 16 week computer programming course, accepting only around 10% of applicants. It offers a fully immersive course focussed on teaching best practices, working in pressured environments, learning, thinking and breathing like a developer.
 
-- Grew my curiosity and hunger for code
+- Broadened my curiosity and knowledge for code
 - Enhanced independent learning and problem-solving skills
 - Participation in pair programming has provided experience working alongside other developers
-- Focus on software craftsmanship, adopting best practices such as TDD and agile methodologies
-- Technology agnostic, with the ability and confidence to pick up new languages as demonstrated in our final project 
+- Focus on software craftsmanship ensures adoption of best practices, such as TDD and agile methodologies
+- Technology agnostic, with the ability and confidence to pick up new languages and frameworks as demonstrated in our final project 
 
 #### Javelin Group (December 2014 - November 2016)    
 *Technology Consultant*  
