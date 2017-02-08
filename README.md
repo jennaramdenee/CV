@@ -12,7 +12,7 @@ Looking for an opportunity that I can be passionate about, in a company with val
 
 #### Problem Solving
 
-Studying maths and woring in consultancy has always been about solving one problem after another, whether it's understanding what someone needs and suggesting solutions or just figuring out how to make a piece of code, process or ambition work.
+Studying maths and working in consultancy has always been about solving one problem after another, whether it's understanding what someone needs and suggesting solutions or just figuring out how to make a piece of code, process or ambition work.
 
 - **IT Strategy**: Worked with a number of retail clients to form long term technology recommendations through assessment of current systems against future strategic ambitions
 - **Functional Solution Designer**: Understood client needs in order to produce and deliver functional design documents across numerous supply chain systems
