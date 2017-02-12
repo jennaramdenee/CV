@@ -41,7 +41,7 @@ Below are some projects that I am really proud of.
 |----------------|-----------------------------------------------------------------|---------------------------------------------------|------------------------------------------|
 | Just-Jam       | Web app that allows musicians to connect                        | JavaScript, Node, Express, Mongoose, MongoDB, Pug | https://github.com/Gweaton/just-jam      |
 | Instagramdenee | Instagram clone that allows users to post and comment on photos | Ruby, Rails, PostgreSQL                           | http://instagramdenee.herokuapp.com/     |
-| News App       | Uses Guardian API to present the latest news                    | JavaScript                                        | https://github.com/jennaramdenee/news-su |
+| Apiify         | Ruby gem that takes any CSV and turns it into an API            | Ruby, Rails                                       | https://github.com/oscar-barlow/apiify   |
 
 ## Experience
 
