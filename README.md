@@ -4,7 +4,7 @@ Full stack developer, passionate about technology and how it constantly affects 
 
 I've always enjoyed working with technology and my recent enrollment in Makers Academy has helped me delve further into the technical intricacies behind creating beautiful things that we often take for granted.
 
-Coding has reignited my enthusiam to discover and learn new things. It's given me that long-lost joy of immersing myself in a really interesting problem or project, and seeking the fist-pump moment when it all comes together.
+Coding has reignited my enthusiasm to discover and learn new things. It's given me that long-lost joy of immersing myself in a really interesting problem or project, and seeking the fist-pump moment when it all comes together.
 
 Looking for an exciting opportunity in an area that I care about, in a company with values I share, with a team that encourages and pushes me to constantly achieve more.
 
